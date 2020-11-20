@@ -1,0 +1,7 @@
+startTile = 0
+robot = figure8()
+for robot in range(0,4):
+  figure8()
+robot = startTile
+speak("I am a winner!")
+multicolorLight = True
